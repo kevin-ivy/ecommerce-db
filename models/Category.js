@@ -10,7 +10,7 @@ Category.init(
       //set the type for the id
       type: DataTypes.INTEGER,
       //prevent the id from being null
-      allowNull: FALSE,
+      allowNull: false,
       //automatically increase with each added
       autoIncrement: true,
       //use as the primary key
