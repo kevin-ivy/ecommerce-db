@@ -3,6 +3,11 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  [![Javascript](https://img.shields.io/badge/-Javascript-red)](https://shields.io/)  [![HTML](https://img.shields.io/badge/-Node-lightgrey)](https://shields.io/) [![MySQL](https://img.shields.io/badge/-MySQL-blueviolet)](https://shields.io/)
 
   This is a training exercise for designing the backend to an E-Commerce platform. While there is no front in, the api routes can be tested in Insomnia to show working GET, POST, PUT, and DELETE requests for the included database.
+  
+  ## Screenshots
+  
+  ## Demonstration Video
+  [Link to Demonstration](https://drive.google.com/file/d/1HI6-MOAdbLgWG24hikZpAN3WEM9GszNy/view)
 
   ## Table of Contents
 
